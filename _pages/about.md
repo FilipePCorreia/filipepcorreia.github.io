@@ -1,14 +1,8 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+**Does paycheck frequency matter? Evidence from micro data** with [Brian Baugh](https://sites.google.com/site/briankbaugh/)
+_Journal of Financial Economics. Vol. 143, Issue 3, 2022_ [link](https://www.sciencedirect.com/science/article/pii/S0304405X21005080)
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Using a unique dataset from an account aggregator, we analyze cross-sectional differences and within-household time-series variation in paycheck frequency. We find that higher paycheck frequency results in less credit card borrowing, less consumption, but more instances of financial distress — even when the change in paycheck frequency is employer-initiated. We find that pay frequency strongly determines within-month time patterns of financial distress. Our theoretical model reconciles these empirical results — higher paycheck frequency increases consumers’ willingness to allocate to illiquid savings vehicles, leading to a reduction in both consumption and within-paycycle borrowing. 
+#Figure on the left: propensities to overdraft or bounce a check through the paycycle for differently paid households.
 
 A data-driven personal website
 ======
