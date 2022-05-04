@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+## Publications
 
 **Does paycheck frequency matter? Evidence from micro data** with [Brian Baugh](https://sites.google.com/site/briankbaugh/)
 _Journal of Financial Economics. Vol. 143, Issue 3, 2022_ [link](https://www.sciencedirect.com/science/article/pii/S0304405X21005080)
@@ -15,7 +16,7 @@ _Journal of Financial Economics. Vol. 143, Issue 3, 2022_ [link](https://www.sci
 Using a unique dataset from an account aggregator, we analyze cross-sectional differences and within-household time-series variation in paycheck frequency. We find that higher paycheck frequency results in less credit card borrowing, less consumption, but more instances of financial distress — even when the change in paycheck frequency is employer-initiated. We find that pay frequency strongly determines within-month time patterns of financial distress. Our theoretical model reconciles these empirical results — higher paycheck frequency increases consumers’ willingness to allocate to illiquid savings vehicles, leading to a reduction in both consumption and within-paycycle borrowing. 
 %Figure on the left: propensities to overdraft or bounce a check through the paycycle for differently paid households.
 
-##Research
+## Research
 
 **Is Corporate Credit Risk Propagated to Employees?** with [Gustavo Cortes](https://sites.google.com/site/cortesgustavos/) and Thiago Christiano Silva 
 [Paper](https://www.bcb.gov.br/pec/wps/ingl/wps551.pdf)
@@ -37,8 +38,8 @@ Revise & Resubmit at the _Journal of Economics and Business_
 [Paper](https://drive.google.com/file/d/1CNpitGu7mcnyJ9MlU5uNO9x0XUYHWjei/view)
 Informal loans are largely understudied, and informal lending communities are an open space for FinTech intervention. We collect a dataset on an online informal lending community to examine it, using the 2020 pandemic as a laboratory. We find that these informal loans are short duration, expensive and that borrowers and lenders exhibit a sense of community, in a market where reputation and narratives are key. Our results suggest that in hard times, borrowers reduce loan demand. Loans directly associated with the pandemic are more likely to be transacted by newcomers to this market, and mentioning the pandemic in a loan request lowers the chance that it originates a loan. The absence of an increase of violations of community rules and the reduction in promised repayment time highlights the importance of reputation on informal credit communities in hard times.
 
-##Work in Progress
+## Work in Progress
 _Consumer Spending in the Coronavirus Outbreak_, with [Jialan Wang](https://sites.google.com/site/jialanw/)
 
-##Working Papers
+## Working Papers
 _Portugal’s Memorandum: Higher Understanding, Lower Drug Prices_, with [Pedro Pita Barros](https://momentoseconomicos.com/about-me/bio/)
