@@ -1,3 +1,14 @@
+---
+permalink: /
+title: 
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 **Does paycheck frequency matter? Evidence from micro data** with [Brian Baugh](https://sites.google.com/site/briankbaugh/)
 _Journal of Financial Economics. Vol. 143, Issue 3, 2022_ [link](https://www.sciencedirect.com/science/article/pii/S0304405X21005080)
 
